@@ -1,2 +1,2 @@
 # Day-Calculator
-This calculator can give out the sum of the intervals between multiple dates. It considered the changes brought by the leap years, so the calculation can be applied to any time period in the past or future.
+This calculator can give out the sum of the intervals between multiple dates. It considered the changes brought by the leap years, so the calculation can be applied to any time period in the past or future. The code in the views.py is excerpted from the original file which includes the core algorithm of the day calculator. Since it is a Django web application, I only choose to present the core algorithm here for you to review.
