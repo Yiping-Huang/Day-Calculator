@@ -1,3 +1,4 @@
+from django.shortcuts import render, redirect
 from .day_calculator import day_calculation
 
 def daycalculate(request):
